@@ -1,2 +1,2 @@
-# image_lib
+# picGo
 图床
